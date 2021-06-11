@@ -1,0 +1,90 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+.bookicon{
+  margin: 10px;
+  fill: white;
+}
+
+.generatefrom{
+  margin-left: 50px;
+  margin-top: -12px;
+  color: white;
+}
+
+.codeacademyprogramming{
+  color: rgb(28, 115, 216);
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 20px;
+  
+}
+
+body{
+  margin: 0;
+}
+
+.logo{
+  padding-left: 15px;
+  margin-top: 5px;
+  fill: aliceblue;
+}
+.topnav{
+  display: inline-block;
+}
+
+
+.topnav ul{
+  display: inline-block;
+  padding: 5px;
+}
+.topnav ul li{
+  font-size: 17px;
+  color: white;
+  display: inline-block;
+  padding: 5px;
+}
+.topnav ul li a{
+  color: white;
+  text-decoration: none;
+}
+.header-top{
+  display: inline-block;
+  width: 100%;
+  height: 60px;
+  background-color: rgb(23, 30, 37);
+  
+}
+
+.search{
+  font-size: 20px;
+  padding-top: 5px;
+  margin-left: 5px;
+  border-radius: 8px;
+  border-style: solid;
+  color: white;
+  background-color: black;
+}
+.top-left{
+  padding-top: 20px;
+  float: right;
+  fill: white;
+}
+.Header-uner-top{
+  width: 80%;
+  height: 80px;
+  background-color: rgb(8, 6, 27);
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
